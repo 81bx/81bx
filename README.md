@@ -1,1 +1,1 @@
-<img width="2000" height="1124" alt="360px-OngezelligMimi1 webp" src="https://github.com/user-attachments/assets/a84b1d2d-1e75-4f5e-9669-2c215fd5a730" />
+<img width="376" height="376" alt="gorilla-tag-no-banana" src="https://github.com/user-attachments/assets/1f7cae29-5737-45fe-8f2b-ac8c05e1de47" />
