@@ -26,5 +26,5 @@ Telegram: [bzjqn](https://t.me/bzjqn)
 
 | Component | Version | Check Command |
 |-----------|---------|---------------|
-| **OS** | Fedora 45 (Prerelease) | `oldfetch` |
-| **Architecture** | x64 | `oldfetch` |
+| **OS** | Fedora 45 (Prerelease) | `$HOME/.config/oldfetch` |
+| **Architecture** | x64 | `$HOME/.config/oldfetch` |
