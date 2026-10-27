@@ -1,1 +1,6 @@
-<img width="376" height="376" alt="gorilla-tag-no-banana" src="https://github.com/user-attachments/assets/1f7cae29-5737-45fe-8f2b-ac8c05e1de47" />
+### My system:
+
+| Component | Version | Check Command |
+|-----------|---------|---------------|
+| **OS** | Fedora 45 (Prerelease) | `oldfetch` |
+| **Architecture** | x64 | `oldfetch` |
