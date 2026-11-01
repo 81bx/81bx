@@ -22,5 +22,5 @@ https://81bx.github.io
 
 | Component | Version | Check Command |
 |-----------|---------|---------------|
-| **OS** | Fedora 45 (Prerelease) | `$HOME/.config/oldfetch` |
-| **Architecture** | x64 | `$HOME/.config/oldfetch` |
+| **OS** | Fedora 45 (Prerelease) | `$HOME/.config/oldfetch.dev` |
+| **Architecture** | x64 | `$HOME/.config/oldfetch.dev` |
