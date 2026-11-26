@@ -26,5 +26,5 @@ https://81bx.github.io
 
 | Component | Version | Check Command |
 |-----------|---------|---------------|
-| **OS** | CachyOS (systemd) | `$HOME/.config/oldfetch.dev` |
-| **Architecture** | x64 | `$HOME/.config/oldfetch.dev` |
+| **OS** | NRPM Linux (Arch Linux) (systemd) | `fastfetch` |
+| **Architecture** | x86_64 | `fastfetch` |
