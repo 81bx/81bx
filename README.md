@@ -2,10 +2,6 @@
 
 I build something else like [OldFetch Linux fork](https://github.com/81bx/oldfetch-cli-linux), [NRPM Desktop (Sway fork)](https://github.com/81bx/NRPM-Desktop), [TikATProtocool](https://tikatprotocool.github.io/) and [NRPM Linux (hinnkaDistro) for chroot post-installation](https://github.com/81bx/NRPM-Linux).
 
-I make a VR content, whice is Groilla Tag. (ofc)
-
-Little about it for me :(
-
 -------------------------
 
 ### My Socials
