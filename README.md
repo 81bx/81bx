@@ -24,7 +24,8 @@ https://81bx.github.io
 
 ### My system:
 
-| Component | Version | Check Command |
+| Component | Version/Types | Check Command |
 |-----------|---------|---------------|
-| **OS** | [NRPM Linux](https://github.com/81bx/NRPM-Linux) (systemd) | `fastfetch` |
+| **OS** | [NRPM Linux](https://github.com/81bx/NRPM-Linux) | `fastfetch` |
+| **Init** | s(oy)stemd | `fastfetch` |
 | **Architecture** | x86_64 | `fastfetch` |
